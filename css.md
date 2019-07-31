@@ -393,3 +393,11 @@ position：设置元素的定位
 
 将`width`设置为`width:50%`居中于页面
 
+### 继承
+
+在这里列举下css可继承属性：
+
+所有元素可继承：visibility和cursor。 
+内联元素可继承：letter-spacing、word-spacing、white-space、line-height、color、font、font-family、font-size、font-style、font-variant、font-weight、text-decoration、text-transform、direction。 
+终端块状元素可继承：text-indent和text-align。 
+列表元素可继承：list-style、list-style-type、list-style-position、list-style-image。
